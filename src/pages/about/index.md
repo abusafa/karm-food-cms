@@ -1,18 +1,13 @@
 ---
 templateKey: about-page
-title: About our values !
+title: عن المؤسسة
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+كانت البدايات الأولى لشركة كرم السعودية المحدودة لتجارة واستيراد المواد الغذائية منذ نشأتها كانت تعتمد بشكل كبير على المنتجات الأولية والرئيسية للمستهلك، ومن ثم تحولت بفضل خبرة مؤسسيها ووفقًا لاحتياجات السوق مع رؤية ثابتة لتصبح شركة رائدة في تسويق وتوزيع المنتجات الأولية للمستهلك إضافة إلى مجموعة من العلامات التجارية العالمية والمحلية في المملكة العربية السعودية، وواحدة من الشركات المتقدمة بهذا المجال
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+ترتكز رؤيتنا على استهداف وتطوير مواردنا والاستفادة من أفضل الممارسات وتطوير سير العمليات لتحقيق "الاكتفاء الذاتي" من خلال الالتزام بتحسين وتطوير جودة المنتجات والخدمات التي تقدمها شركة كرم السعودية المحدودة ، وتوسيع وتعزيز الأعمال القائمة من خلال ادراك وفهم لاحتياجات العملاء وتلبية احتياجاتهم، ووضع المعايير اللازمة في مختلف القطاعات التي تعمل فيها الشركة لنصل لأهدافنا وتطلعاتنا المستقبلية 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+تكرس شركة كرم السعودية المحدودة جهودها إلى التميز والتوسع في تقديم منتجات وخدمات عالية الجودة من خلال منشآتها القائمة بالإضافة الى الاستثمار في اعمال وقطاعات متنوعة حيث تخلق تكاملا افقيا وعامودياً . والعمل على استمرارية الاستثمار الان ومستقبلا في الأسواق التي نتواجد بها وانتهاز فرص جديدة للاستثمار في اسواق اخرى
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+تلتزم شركة كرم السعودية المحدودة بتقديم منتجات وخدمة عالية الجودة من خلال ادراك وفهم لاحتياجات عملائها مع قيمة مضافة للعملاء تتجاوز توقعاتهم لبناء علاقة متبادلة طويلة الأمد
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+جذب وتطوير المهارات العالية لموظفينا الذين يلتزمون بروح العمل الجماعي لنجاح المجموعة لتحقيق إمكاناتهم الحقيقية. تحقيق نمو مستدام لجميع المستفيدين وأصحاب المصالح المشتركة معنا
