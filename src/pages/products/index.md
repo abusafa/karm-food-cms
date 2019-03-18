@@ -58,7 +58,7 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/whatsapp-image-2019-03-18-at-9.58.47-am.jpeg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -68,7 +68,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/whatsapp-image-2019-03-18-at-9.58.56-am.jpeg
 pricing:
   heading: Monthly subscriptions
   description: >-
