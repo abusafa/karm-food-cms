@@ -1,8 +1,8 @@
 ---
 templateKey: product-page
-title: Our Coffee
-image: /img/whatsapp-image-2019-03-18-at-9.58.46-am.jpeg
-heading: Great coffee with a conscience
+title: منتجاتنا
+image: /img/karam-tomato-4400-can-5kg.jpeg
+heading: 'صلصة '
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -52,9 +52,9 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/whatsapp-image-2019-03-18-at-9.58.45-am.jpeg
+    image: /img/karam-tomato-4400-can-5kg.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: 'قهوة العلبي '
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
