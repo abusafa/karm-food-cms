@@ -1,13 +1,11 @@
 ---
 templateKey: product-page
 title: منتجاتنا
-image: /img/karam-tomato-4400-can-5kg.jpeg
-heading: 'صلصة '
+image: /img/karm-oil.jpeg
+heading: زيت الزيتون الطبيعي
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  تمتلك شركة كرم السعودية المحدودة وكالة زيت زيتون كهرمان التركي وزيت زيتون خالص
+  الذهب التركي بالإضافة الى زيت زيتون كرم السوري . 
 intro:
   blurbs:
     - image: /img/whatsapp-image-2019-03-18-at-9.58.45-am.jpeg
